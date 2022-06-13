@@ -1,4 +1,8 @@
-### Hi there 👋
+🔭 I’m currently working on object detection.
+
+[![Luting Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LutingWang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Luting Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LutingWang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LutingWang/LutingWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
